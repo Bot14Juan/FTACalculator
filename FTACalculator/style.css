@@ -1,0 +1,20 @@
+body{
+    width: 500px;
+    height: 10px;
+    background: rgb(180, 180, 180);
+    font-family: Arial;
+}
+.contenedor{
+    padding-bottom: 10px;
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 200px;
+    font-size: 18px;
+}
+#resultado{
+    font-size: 20px;
+    font-weight: bold;
+}
